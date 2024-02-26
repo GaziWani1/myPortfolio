@@ -29,7 +29,7 @@ const LIveProjects = () => {
 					target='_blank'
 					href='https://github.com/GaziWani1'
 				>
-					Mind more on{' '}
+					Find more on{' '}
 					<span className='py-1 px-4 mx-2 hover:scale-90 transition-all rounded-md border-2'>
 						{' '}
 						...GitHub
